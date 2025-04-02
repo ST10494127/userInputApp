@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputTime" type="id" />
+    <item name="suggestButton" type="id" />
+    <item name="resultText" type="id" />
+    <item name="ResetButton" type="id" />
+    <item name="btnReset" type="id" />
+    <item name="tvMealSuggestion" type="id" />
+    <item name="btnSuggest" type="id" />
+</resources>
